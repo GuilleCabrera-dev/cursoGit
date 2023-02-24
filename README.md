@@ -1,4 +1,4 @@
-# cursoGit :tw-1f431:
+# cursoGit
 Prácticas de GIT y GitHub
 
 > Esto es un curso de GIT y GuitHub de la plataforma Platzi.
@@ -14,3 +14,4 @@ Prácticas de GIT y GitHub
 - Creado por el increíble Platzi Team
 - Incluye ejemplos en Windows, Linux y Mac
 - Disponible para todas las edades
+
