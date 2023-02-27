@@ -16,4 +16,4 @@ Prácticas de GIT y GitHub
 - Disponible para todas las edades
 
 - Creado por el increíble Platzi Team
-
+- Inclute ejemplos en W, L y Mac
