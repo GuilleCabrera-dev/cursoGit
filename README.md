@@ -15,3 +15,5 @@ Prácticas de GIT y GitHub
 - Incluye ejemplos en Windows, Linux y Mac
 - Disponible para todas las edades
 
+- Creado por el increíble Platzi Team
+
